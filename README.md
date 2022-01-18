@@ -1,24 +1,43 @@
-# vue-todolist
+# Vue-Todolist
 
-## Project setup
+#### This is a single page website built by Vue.
+
+## ⭐ Features
+
+- CRUD Function
+- Element-UI Apply
+
+## ✏️ Front-End Skills
+
+- HTML
+- CSS
+- SCSS
+- Vue.js
+
+## 🏃‍ Project setup and run
+
+### Please clone the project
+
+```bash
+git clone https://github.com/muchuanhung/Vue-Todolist.git
 ```
-npm install
-```
+
+### Install dependencies
+
+- Change directory
+  ```bash
+  cd vue-todolist
+  ```
+- Install project dependencies
+  ```bash
+  npm install
+  ```
+  npm i element-ui -S
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Open the browser and navigate to http://localhost:8080
